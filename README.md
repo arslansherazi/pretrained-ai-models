@@ -1,5 +1,7 @@
+# Pretrained AI Models
+### Prerequisites
 ~~~
-export PYTHONPATH=/Users/arslanhaider/ahs-data/huggingface-models
+export PYTHONPATH=<path_to_project>
 ~~~
 ~~~
 brew install llvm openfst gcc huggingface-cli
