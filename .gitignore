@@ -1,2 +1,4 @@
 utils/ChatTTS/
 static/downloads/
+.DS_Store
+.idea/

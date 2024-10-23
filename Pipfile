@@ -15,10 +15,18 @@ soundfile = "*"
 diffusers = "*"
 transformers = "*"
 accelerate = "*"
+tensorflow = "*"
+keras = "*"
+datasets = "*"
+sentencepiece = "*"
+evaluate = "*"
+nltk = "*"
+rouge-score = "*"
+tf-keras = "*"
 
 [dev-packages]
 ipykernel = "*"
 
 [requires]
 python_version = "3.12"
-python_full_version = "3.12.6"
+python_full_version = "3.12.7"
